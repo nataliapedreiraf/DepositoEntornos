@@ -2,7 +2,7 @@ package cuentas;
 
 /**
  *
- * @author natalia pedreira fernandez
+ * @author natalia 
  */
 public class CCuenta {
 
